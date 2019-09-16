@@ -1,4 +1,4 @@
-const PORT 		= 8080;
+const PORT 		= 8080; // Bad PORT usage Change! 
 const errMsg = "UH OH, there was an Error"; // nice prompt when there is a callback error
 
 var express 		= require("express"), // Express Framework
