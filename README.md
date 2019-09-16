@@ -1,4 +1,4 @@
-# Th Yelp Camp Cloner Application
+# The Yelp Camp Cloner Application
 A Cloned version of YelpCamp Webapp Created with Bootstrap 3, modrnizr, Mongo, Express, and Node. 
 
 ## Requirements for Setting up your workspace
